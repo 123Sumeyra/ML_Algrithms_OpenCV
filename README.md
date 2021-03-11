@@ -13,4 +13,4 @@ Our images have been brought to the same size using OpenCV firstly
 
 
 ## Conclusion
-Svm is more suitable for this data
+Svm is more suitable for this data.
